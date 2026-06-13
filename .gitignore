@@ -1,0 +1,15 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / Rider cache
+.vs/
+.idea/
+*.user
+
+# Unity / Game specifics if any
+*.suo
+*.sln.docstates
+
+# Thunderstore
+thunderstore.toml
