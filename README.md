@@ -14,21 +14,21 @@ It seamlessly translates the game's 3D spatial audio into a visual radar system 
 
 ## Screens:
 * **Weapon Sound Visualizations:**
-![Weapon Visualization 1](https://cdn.imgchest.com/files/6db666e587df.gif)
-![Weapon Visualization 2](https://cdn.imgchest.com/files/c72fbc47736f.gif)
+![Weapon Visualization 1](https://i.ibb.co/ymN2cnHh/Weapon-Icon1.gif)
+![Weapon Visualization 2](https://i.ibb.co/1GyJyhHm/Weapon-Icon2.gif)
 
 * **Explosion Sound Visualizations:**
-![Explosion Visualization 1](https://cdn.imgchest.com/files/64de54606914.gif)
-![Explosion Visualization 2](https://cdn.imgchest.com/files/20a3c2b0f808.gif)
+![Explosion Visualization 1](https://i.ibb.co/1tQcmVfQ/Grenade-Icon1.gif)
+![Explosion Visualization 2](https://i.ibb.co/8LnCyXBw/Grenade-Icon2.gif)
 
 * **Item Break Sound Visualizations:**
-![Item Break 1](https://cdn.imgchest.com/files/e59d3943b9d1.gif)
-![Item Break 2](https://cdn.imgchest.com/files/38e62134f653.gif)
-![Item Break 3](https://cdn.imgchest.com/files/2b261ef35a66.gif)
+![Item Break 1](https://i.ibb.co/Z18R3Mry/Item-Break1.gif)
+![Item Break 2](https://i.ibb.co/JWHnc9PR/Item-Break2.gif)
+![Item Break 3](https://i.ibb.co/KjJvYTRG/Item-Break3.gif)
 
 * **Monster Sound Visualizations:**
-![Monster Visualization 1](https://cdn.imgchest.com/files/b70aaa47a277.gif)
-![Monster Visualization 2](https://cdn.imgchest.com/files/81ec7917669d.gif)
+![Monster Visualization 1](https://i.ibb.co/jks9NrBS/Monster-Icon1.gif)
+![Monster Visualization 2](https://i.ibb.co/Cp29xXjh/Monster-Icon2.gif)
 
 ## Support the Developer:
 DeafLink is completely free and open-source. If the mod helped you and you'd like to support its continued development, any donations are massively appreciated!
